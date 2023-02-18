@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\Example-sql-project\Example-sql-project\bin\Debug\Example-sql-project.exe.config
+C:\Users\Lenovo\Desktop\Example-sql-project\Example-sql-project\bin\Debug\Example-sql-project.exe
+C:\Users\Lenovo\Desktop\Example-sql-project\Example-sql-project\bin\Debug\Example-sql-project.pdb
+C:\Users\Lenovo\Desktop\Example-sql-project\Example-sql-project\obj\Debug\Example-sql-project.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Example-sql-project\Example-sql-project\obj\Debug\Example-sql-project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Example-sql-project\Example-sql-project\obj\Debug\Example_sql_project.Form1.resources
+C:\Users\Lenovo\Desktop\Example-sql-project\Example-sql-project\obj\Debug\Example_sql_project.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Example-sql-project\Example-sql-project\obj\Debug\Example-sql-project.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Example-sql-project\Example-sql-project\obj\Debug\Example-sql-project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Example-sql-project\Example-sql-project\obj\Debug\Example-sql-project.exe
+C:\Users\Lenovo\Desktop\Example-sql-project\Example-sql-project\obj\Debug\Example-sql-project.pdb
+C:\Users\Lenovo\Desktop\Example-sql-project\Example-sql-project\obj\Debug\Example_sql_project.Form2.resources

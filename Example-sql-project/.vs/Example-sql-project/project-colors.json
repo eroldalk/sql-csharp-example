@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b76bc08b-fb79-4189-becd-de1d66d99516": {
+      "ProjectGuid": "b76bc08b-fb79-4189-becd-de1d66d99516",
+      "DisplayName": "Example-sql-project",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
